@@ -2,6 +2,10 @@
 
 Aplikasi ini adalah sistem manajemen klinik berbasis web yang dibangun menggunakan Laravel 12. Aplikasi ini mendukung berbagai fitur seperti pendaftaran pasien, transaksi dokter, pembayaran tagihan oleh kasir, laporan klinik dengan visualisasi grafik, filter laporan, dan export PDF. Aplikasi ini menggunakan autentikasi dengan Laravel Breeze dan manajemen role dengan Spatie Laravel Permission.
 
+## Tampilan Halaman Awal
+
+![Landing Page](image/desgin-web-saya.png)
+
 ## Fitur Utama
 
 ### Role-based Access
