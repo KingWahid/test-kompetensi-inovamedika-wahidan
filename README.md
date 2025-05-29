@@ -53,7 +53,7 @@ Edit file `.env` untuk mengatur koneksi database:
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=test_kompetensi_invomedika_wahidan
+DB_DATABASE=
 DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
@@ -78,10 +78,10 @@ php artisan serve
 
 | Role    | Email                 | Password |
 |---------|-----------------------|----------|
-| Admin   | admin@example.com     | password |
-| Petugas | petugas@example.com   | password |
-| Dokter  | dokter@example.com    | password |
-| Kasir   | kasir@example.com     | password |
+| Admin   | admin@clinic.com      | password |
+| Petugas | petugas@clinic.com    | password |
+| Dokter  | dokter@clinic.com     | password |
+| Kasir   | kasir@clinic.com      | password |
 
 ## Struktur Aplikasi
 
